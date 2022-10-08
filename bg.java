@@ -19,7 +19,7 @@ public class bg {
 					System.out.println(sum );
 					count++;
 				}
-			
+			i++;
 			}
 
 		}

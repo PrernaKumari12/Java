@@ -11,7 +11,7 @@ public class Prime {
 		if(n%div==0) {
 			flag=false;
 		}
-		
+		div=div+1;
 		
 		
 	}
